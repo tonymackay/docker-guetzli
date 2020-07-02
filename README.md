@@ -1,3 +1,5 @@
+This repo has been archived and the Dockerfile moved to: https://github.com/tonymackay/images
+
 # Overview
 This repo contains a multi-stage Dockerfile that will build [Guetzli JPEG compressor][guetzli] from source and copy the program to a minimal (scratch) Docker image.
 
